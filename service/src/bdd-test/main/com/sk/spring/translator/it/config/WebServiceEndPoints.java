@@ -1,7 +1,7 @@
 package com.sk.spring.translator.it.config;
 
 public enum WebServiceEndPoints {
-    VERSION("http://localhost:8080/shady/version");
+    STATUS("http://localhost:8080/shady/health");
 
     private final String url;
 

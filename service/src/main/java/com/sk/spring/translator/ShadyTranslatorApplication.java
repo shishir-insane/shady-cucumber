@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ShadyTranslatorApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ShadyTranslatorApplication.class, args);
-	}
+    public static void main(String[] args) {
+	SpringApplication.run(ShadyTranslatorApplication.class, args);
+    }
 
 }
